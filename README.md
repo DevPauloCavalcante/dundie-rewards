@@ -1,2 +1,2 @@
 # dundie-rewards
-Poiny rewards system for dunder miffin company
+Point rewards system for dunder miffin company

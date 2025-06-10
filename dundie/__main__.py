@@ -31,6 +31,7 @@ def main():
     )
 
     args = parser.parse_args()
+    
     try:
         globals()[args.subcommand](args.filepath)
     except KeyError:
